@@ -1,10 +1,10 @@
-package com.lxg.springboot;
+package com.lslnx.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Created by lxg
+ * Created by lslnx
  * on 2017/2/18.
  * @author lslnx_0307
  */
